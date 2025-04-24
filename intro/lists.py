@@ -18,3 +18,8 @@ print(fruits);
 
 fruits.remove("guava")
 print(fruits)
+
+fruit=input ("which fruit do you love? ")
+print(fruit.capitalize())
+
+
