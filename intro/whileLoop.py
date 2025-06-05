@@ -12,3 +12,14 @@ while j < 10:
     if j== 5:
         break
     j +=1
+
+
+#continue statement- we can stop the current iteration and continue to the next
+print("use of continue statement")
+f= 0
+while f < 8:
+    f+=1
+    if f==5:
+        continue
+    print(f)
+    
